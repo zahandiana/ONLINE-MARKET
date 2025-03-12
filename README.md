@@ -1,7 +1,7 @@
 # Magazin Online - Pagini și Funcționalități
 
 ## 📌 Descriere
-Acest proiect reprezintă un **magazin online **, construit utilizând **HTML, CSS și JavaScript**. Aplicația include pagini esențiale pentru un magazin online, oferind o experiență interactivă fără a necesita o bază de date.
+Acest proiect reprezintă un **magazin online**, construit utilizând **HTML, CSS și JavaScript**. Aplicația include pagini esențiale pentru un magazin online, oferind o experiență interactivă fără a necesita o bază de date.
 
 ## 🛠️ Tehnologii utilizate
 - **HTML5** – Structura paginilor web
